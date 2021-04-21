@@ -6,7 +6,8 @@ You have been presented with a description and purpose of the
 Interface Segregation Principle (ISP). You will need to understand this
 principle to successfully complete the lab work.
 
-Try not to peek at the instructor solutions in "edu.wctc.isp.solution". If you get stuck or want to check if your solution is
+Try not to peek at the instructor solutions in "edu.wctc.isp.solution". 
+If you get stuck or want to check if your solution is
 a good one, review the instructor's solutions.
 
 ISP RULES:
